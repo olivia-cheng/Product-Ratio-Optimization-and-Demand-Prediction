@@ -1,6 +1,14 @@
 ## Background
 Prediction and optimization methods are used to find the optimal ratio of pattern-to-solid for a pattern-making company. This will allow them to maximize sales under the control of specific conditions in their business. Prediction and optimization models fromp ython libraries are applied to determine the quantity for each product category and maximize sales by controlling the pattern-to-solid ratio and other variables.
 
+## Contributors
+* Ting-Yun (Olivia) Cheng
+* Soyeon Baik
+* Huihui Zhang
+* Srinikhil Bolneyti
+* Yen Huang
+
+
 ## Programming Language
 * Python
 * SAS
