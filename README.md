@@ -25,4 +25,4 @@ Prediction and optimization methods are used to find the optimal ratio of patter
 
 ## Output
 The final prediction model used is time series random forest regression which had prediction accuracy of 86.4% on the test data.
-Please read our work in poster here: https://bit.ly/3xpITif
+- Please refer to poster: https://bit.ly/3xpITif
